@@ -18,7 +18,7 @@ import java.util.List;
 
 /**
  * Created by 黄侣琳 on 2020/06/17.
- * 辑歌曲适配器
+ * 专辑歌曲适配器
  */
 
 public class AlbumSongAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
