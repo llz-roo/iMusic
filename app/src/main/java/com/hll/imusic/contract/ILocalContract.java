@@ -8,6 +8,7 @@ import java.util.List;
 
 /**
  * Created by 黄侣琳 on 2020/06/20.
+ * 本地歌曲信息
  */
 
 public interface ILocalContract {
